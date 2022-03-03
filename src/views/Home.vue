@@ -15,7 +15,7 @@ export default {
     HelloWorld
   },
   created() {
-    console.log('我是dev-test分支')
+    console.log('我是本地dev-test分支')
     // const arr = ['编号1', '编号2', '编号3', '编号4', '编号5']
     // for (const i in arr) {
     //   console.log(i) // 0 1 2 3 4
